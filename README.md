@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300"/>
 </div>
@@ -6,11 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=highrens&style=flat-square&color=e3c3a7" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-I am a Full Stack Developer from Russia.
+# Bonjour! Сергей на связи!  
+## :man_technologist: About Me :
 
-And I would also like to create games 👉👈  
-AND MAKE THEM!!
+👁️‍🗨️ Хочу создававать удобные и понятные интерфейсы  
+👨‍💻 Писать понятный код  
+📜 Развиваться каждый день!  
+🎲 Создававать игры  
+🍕 Кушать пиццу!   
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
