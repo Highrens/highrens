@@ -32,6 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## 📞 Contacts :
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25" height="25"/> [Telegram](https://t.me/Highrens)  
+  <img src="https://icons.iconarchive.com/icons/hamzasaleem/stock/512/Mail-icon.png" width="25" height="25"/> sergeipankov98@mail.ru
+   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=highrens&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highrens&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
